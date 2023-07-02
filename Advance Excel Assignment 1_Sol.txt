@@ -1,0 +1,88 @@
+Advance Excel Assignment 1:
+
+1. What do you mean by cells in an excel sheet?
+
+Ans: Excel sheet is cells refer to the individual rectangular boxes or units that form the grid of the spreadsheet.
+     Each cell is identified on a worksheet by its reference,the column letter and row number that intersect at the cell's location.
+
+2. How can you restrict someone from copying a cell from your worksheet?
+
+Ans: In Excel, you can restrict someone from copying a cell or a range of cells from your worksheet by applying protection to the worksheet:
+
+     1.Select the cell or range of cells that you want to protect from being copied.
+     2.Right-click on the selected cells and choose "Format Cells" from the context menu.
+     3.In the Format Cells dialog box, go to the Protection tab.
+     4.Uncheck the "Locked" checkbox. Then by default, all cells are locked in Excel.
+     5.Click OK to close the Format Cells dialog box.
+     6.Then go to the Review tab on the Excel ribbon.Click on the "Protect Sheet" option.
+     7.In the Protect Sheet dialog box, you can set a password to prevent others from unprotecting the sheet without the password.Alternatively, 
+       you can leave the password field blank if you don't want to set a password.
+     8.Select the specific actions you want to allow users to perform, such as selecting locked cells, formatting cells, 
+       or inserting/deleting columns and rows.
+     9.Ensure that the "Protect worksheet and contents of locked cells" option is checked.Then click OK to apply the protection.
+
+3. How to move or copy the worksheet into another workbook?
+
+Ans: Moving a Worksheet:
+     
+     1.Open both the source workbook then source workbook,right-click on the worksheet tab that you want to move.
+     2.From the context menu, select move or copy then In the Move or Copy dialog box, select the destination workbook from the "To book" dropdown list.
+     3.Choose the location within the destination workbook where we want to move the worksheet then we can either place it before an existing
+       worksheet or after all the existing worksheets.
+     4.Click OK to move the worksheet. The worksheet will be removed from the source workbook and placed into the destination workbook at the 
+       specified location.
+
+4. Which key is used as a shortcut for opening a new window document?
+
+Ans: In Microsoft Windows,the shortcut key used to open a new window document depends on the specific application you are using. 
+      Here are some commonly used shortcut keys are:
+
+   1. Microsoft Word: Ctrl + N
+   2. Microsoft Excel: Ctrl + N
+   3. Microsoft PowerPoint: Ctrl + N
+   4. Notepad (text editor in Windows): Ctrl + N
+   5. Web browsers (e.g., Google Chrome, Mozilla Firefox, Microsoft Edge): Ctrl + N
+
+5. What are the things that we can notice after opening the Excel interface?
+
+Ans: After opening the Excel interface, there are several things that you may notice. Here are some key elements:
+
+ 1. Workbook: Excel opens with a blank workbook, which is the main file where you can enter and organize your data.
+ 2. Ribbon: The Ribbon is a horizontal strip located at the top of the Excel window. It contains tabs, such as Home, Insert, Formulas, etc.
+ 3. Worksheet: A worksheet is a grid of cells where you can enter and manipulate data. By default, a new workbook opens with a single worksheet
+    named Sheet1.
+ 4. Cells: The grid of cells is the main area where you enter and display data.
+ 5. Formula Bar: The Formula Bar is located just above the worksheet grid. It displays the contents of the currently selected cell.
+ 6. Name Box: The Name Box is located next to the Formula Bar and displays the cell reference or name of the currently selected cell or range.
+ 7. Status Bar: The Status Bar is located at the bottom of the Excel window. It provides information about the current state of the worksheet, 
+    such as the sum or count of selected cells.
+
+6. When to use a relative cell reference in excel?
+
+Ans: A relative cell reference is used in Excel when you want a formula or function to adjust its cell references based on the relative
+     position of the formula when copied or filled to other cells. Relative cell references are the default type of reference in Excel.
+
+      a.Here are some scenarios:
+      b.Calculations that involve adjacent cells.
+      c.Applying formulas or functions to different data sets.
+      d.Creating patterns or repeating calculations.
+      e.Conditional formatting.		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
